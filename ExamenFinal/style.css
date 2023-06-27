@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parte2 {
+    display: flex;
+    background-color: white;
+    height: auto;
+    align-items: center;
+    height: 50px;
+}
+
+.uno {
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.dos {
+    margin-right: 20px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+}
+
+.tres {
+    margin-right: 20px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+}
+
+.cuatro {
+    margin-right: 500px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+}
+
+.cinco {
+    margin-right: 100px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px; 
+}
+
+.seis {
+    margin-right: 60px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    border: solid black 2px;
+    height: 35px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.siete {
+    margin-right: 60px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    background-color: rgb(5, 63, 5);
+    border-radius: 30px;
+    border: solid black 2px;
+    height: 35px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    color: aliceblue;
+}
+.parte1 {
+    padding-top: 10px;
+    padding-left: 100px;
+    text-align: start;
+    background-color: rgb(5, 63, 5);
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    color: white;
+    height: 30px;
+}
+.main{
+    background-color: #a7eeab;
+    height: 500px;
+}
+.mensaje {
+padding-top: 180px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 20px;
+}
+.mensaje h1 {
+    width: 400px;
+}
+
+.mensaje p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.botonVerde {
+    margin-top: 20px;
+    border: none;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: #45C14E;
+    color: #FCFCFC;
+    width: 270px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+.imgFondo{
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+    margin-top: -407px;
+}
+.extras{
+    margin: 30px;
+    font-family: 'Rubik', sans-serif;
+}
+.centrado{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Rubik', sans-serif;
+}
+.section1 {
+    margin-top: -10px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 0 0 50px 50px;
+
+}
+.cartas {
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    font-family: 'Rubik', sans-serif;
+}
+.hamburgesa{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
